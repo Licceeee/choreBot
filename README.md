@@ -1,4 +1,4 @@
 # choreBot
 Codecademy game exercise
 
-https://seiya-testing.github.io/choreBot/
+https://licceeee.github.io/choreBot/
